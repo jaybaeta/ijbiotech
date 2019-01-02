@@ -3,7 +3,7 @@
 
 <img src="/design/logo/wordmark.png" width="200px" align="right">
 
-This repo contains files and code associated with the _Indonesian Journal of Biotechnology_ website and (eventually) LaTeX template. Its main purpose is to serve as a public archive for these files and to establish a record of the changes we made to the journal ca. 2017–2018.
+This repo contains files and code associated with the _Indonesian Journal of Biotechnology_ [website](https://jurnal.ugm.ac.id/ijbiotech) and (eventually) LaTeX template. Its main purpose is to serve as a public archive for these files and to establish a record of the changes we made to the journal ca. 2017–2018.
 
 Contents of this repo might overlap with those found in the ![open-access-journal-text
 ](https://github.com/jaybaeta/open-access-journal-text) repo.
@@ -16,4 +16,4 @@ Contents of this repo might overlap with those found in the ![open-access-journa
 
 #### design/logo
 
-- All IJBiotech logos and wordmarks © Joaquim Baeta under an exclusive license to IJBiotech
+- All IJBiotech logos and wordmarks © Joaquim Baeta
