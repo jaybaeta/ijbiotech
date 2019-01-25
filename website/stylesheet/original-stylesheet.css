@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+body {
+	font-family: 'EB Garamond', serif !important;
+	font-size: .9rem;
+}
+
+#body{
+	padding: .3rem;				/*boder untuk body layout*/
+	box-shadow: 0px 2px 5px -2px rgba(51,51,51,1);
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'EB Garamond', serif !important;
+	margin-top: 1.6rem !important;
+}
+
+p{
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+#journalDescription > p:first-child:first-letter, #pkp-about-history > p:first-child:first-letter {
+	float: left;
+	color: #333;
+	font-size: 75px;
+	line-height: 60px;
+	padding: 5px 10px 0 0;
+}
+
+#homepageImage {
+	float: left;
+	width: 30%;
+	margin-top: -1em;
+	margin-left: 12px;
+	margin-bottom: 12px;
+	text-align: right;
+}
+
+#homepageImage img {
+	/*transform: translateY(-50px);*/
+	display: inline-block;
+	max-width: 210px;
+	height: auto;
+}
+
+#header{
+	margin:0;
+	padding:0;
+	background-color:#FFF;
+	/*background-image:url(/web/20170724144434im_/https://jurnal.ugm.ac.id/files/journals/67/theme/nasty_fabric.png);	/*mengganti background gambar*/
+	min-height:50px;
+}
+
+#headerTitle{
+	width:1080px;
+	margin:0 auto;
+	display:inline-block
+}
+
+#headerTitle img {
+	float: left;
+	display: inline-block;
+	margin-top: auto;
+	margin-bottom: 40px;
+	max-width: 1080px;
+	height: auto;
+}
+
+#header h1{
+	margin-top:0 !important;
+	text-transform: uppercase;
+	font-size: 4em;
+	font-family: 'EB Garamond', serif !important;
+	text-align: center;
+}
+
+#container{
+	margin: 0 auto;
+	padding: 0;
+	width: auto;
+	min-width: 730px !important;
+	width: 100% !important;
+	/*background:url(/web/20170724144434im_/https://jurnal.ugm.ac.id/files/journals/67/theme/nasty_fabric.png);		/*mengganti background gambar*/
+	background-color: white;
+	display: inline-block;
+}
+
+#navbar{
+	/*untuk warna menu bar*/
+	background-color: #8B4513;		/*untuk warna menu bar*/
+	margin-bottom: 30px;
+}
+
+#navbar a, #navbar a:link, #navbar a:visited {
+	/*font-family: 'Merriweather', serif !important;*/
+	font-family: 'EB Garamond', serif !important;
+	text-transform: none;
+	font-size: 1.2em!important;
+}
+
+#navbar a:hover {
+	background-color: #AE6531;		/*untuk warna menu bar ketika pointer mouse mengarah ke menu*/
+}
+
+#link a:active,a:link,a:visited{
+	color:#3C1900;				/*untuk warna tulisan yang berisi link*/
+	text-decoration:none
+}
+
+ul.sidemenu{
+	margin-top: -12px;
+	padding-left: 0px !important;
+}
+
+ul.sidemenu.full{
+	margin: -12px -12px 0 -12px;
+}
+
+ul.sidemenu li:before{
+	display: none;
+}
+
+ul.sidemenu li{
+	padding: 0;
+}
+
+ul.sidemenu li:first-child a{
+	border-top:1px solid #D28C5A		/*untuk warna pembatas menu paling atas dengan menu nav*/
+}
+
+ul.sidemenu li a{
+	display: block;
+	padding: 0.7em 12px 0.7em 12px;
+	border-bottom: 1px solid #3C1900;	/*untuk warna garis sidemenu*/
+	background-color: #632900;		/*untuk warna background sidemenu*/
+	text-decoration: none;
+	color: #FFF;				/*untuk warna tulisan sidemenu*/
+}
+
+ul.sidemenu li a:hover {
+	background-color: #AE6531;		/*untuk warna sidemenu ketika pointer mouse mengarah ke menu*/
+	text-decoration: underline;
+}
+
+.block li:before {
+  content: "";
+  border-color: transparent #8B4513;		/*untuk warna format bulleting*/
+  border-style: solid;
+  border-width: 0.35em 0 0.35em 0.45em;
+  display: block;
+  height: 0;
+  width: 0;
+  left: -1em;
+  top: 0.9em;
+  position: relative;
+}
+
+
+#leftSidebar div.block span.blockTitle, #rightSidebar div.block span.blockTitle {	
+	font-family: 'EB Garamond', serif !important;
+	background-color: #8B4513;		/*untuk warna menu block*/
+	color: #FFF;
+	box-shadow: 0px 2px 5px -2px rgba(51,51,51,1);
+}
+
+#issueCoverImage img {
+	display: block;
+	border: 0;
+	max-width: 500px;
+	height: auto;
+}
