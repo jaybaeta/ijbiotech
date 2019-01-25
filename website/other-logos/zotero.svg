@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.95475mm"
+   height="74.540535mm"
+   viewBox="0 0 54.95475 74.540535"
+   version="1.1"
+   id="svg889"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="zotero.svg">
+  <defs
+     id="defs883" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="203.8515"
+     inkscape:cy="78.006867"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="732"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(68.298803,-94.932115)">
+    <g
+       id="g870"
+       transform="matrix(0.26458333,0,0,0.26458333,-8.447075,100.93935)">
+      <path
+         id="path8-7"
+         d="m -122.35726,-22.704509 -103.854,46.239 v 90.045999 c 0,24.519 5.525,47.40701 16.423,68.02901 a 158.923,158.923 0 0 0 36.505,45.325 198.555,198.555 0 0 0 50.926,32.089 198.529,198.529 0 0 0 50.925998,-32.086 158.923,158.923 0 0 0 36.499996,-45.325 c 10.9,-20.622 16.423,-43.51001 16.423,-68.02901 V 23.534491 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#31496c;fill-opacity:1" />
+      <polygon
+         id="polygon10-5"
+         points="192.27,190.562 274.108,83.029 274.108,68.687 163.365,68.687 172.329,77.651 163.365,86.615 245.435,86.615 163.585,194.147 163.585,208.49 281.524,208.49 272.56,199.526 281.524,190.562 "
+         style="fill:#fcfcfc;fill-opacity:1"
+         transform="translate(-344.35727,-33.276509)" />
+    </g>
+  </g>
+</svg>
